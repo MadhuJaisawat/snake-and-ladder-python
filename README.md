@@ -1,3 +1,4 @@
+<img width="1914" height="950" alt="Snake LadderGame" src="https://github.com/user-attachments/assets/08e3e60c-1552-4b44-9496-7f5047bba46c" />
 
 # Snake and Ladder Game (Python – AI Assisted)
 
